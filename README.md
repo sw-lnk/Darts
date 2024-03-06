@@ -1,2 +1,2 @@
 # Darts
-App to mange dart games
+App to manage dart games.
